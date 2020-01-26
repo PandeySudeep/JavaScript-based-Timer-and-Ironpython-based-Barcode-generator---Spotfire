@@ -1,4 +1,4 @@
-# Spotfire JavaScript Timer and Python Power to Auto Reload Data
+# JavaScript Timer and Barcode Generator with IronPython - Tibco Spotfire
 
 In the text area of Tibco Spotfire DXP file, JavaScript code can be incorporated that gets triggered via an HTML button. Once triggered, JavaScript button can then invoke IronPython functionality in specified regular intervals.
 
